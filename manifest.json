@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Website Speed Monitor",
+  "version": "1.0",
+  "description": "Real-time website loading speed monitor to diagnose connection vs server issues",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
