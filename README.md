@@ -59,6 +59,7 @@ Ever encountered a website that keeps loading forever? You check your internet s
 3. **Click the extension icon** in your Chrome toolbar
 4. **View the real-time metrics** and diagnosis
 5. **Click the refresh icon** (🔄) to re-analyze anytime
+6. **Keyboard Shortcut**: Consider assigning a custom keyboard shortcut via `chrome://extensions/shortcuts` for faster access.
 
 ### Understanding the Results
 
